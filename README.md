@@ -1,4 +1,4 @@
-# Tam_Mamofede
+# Tam-Mamofede
 
 I’m a Frontend Web Developer passionate about building clean, responsive, and intuitive user interfaces that make life easier for users and businesses. I combine technical expertise with an eye for modern UI/UX to create web applications that are fast, functional, and beautiful.
 
